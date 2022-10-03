@@ -35,6 +35,7 @@ Pasta
 Pasta comes in 2 flavors
 1. White sauce (10 USD)
 2. Red sauce (20 USD)
+
 Pasta comes in 2 types (Any type can be chosen with no change in cost.)
 1. Penne
 2. Ditalini
